@@ -1,4 +1,4 @@
-- 👋 Hi, I have a degree in computer science
+- 👋 Hi, I have a degree in Computer Science
 - 📚 I’m interested in improving my knowledge and skills
 - 🎓 I’m currently following a master's degree course on AI
 
