@@ -1,6 +1,6 @@
-- 👋 Hi, I have a degree in Computer Science
+### 👋 Hi, I am Matteo Farè 
+- 👨‍🎓 I’m currently following a Master's degree course on AI
 - 📚 I’m interested in improving my knowledge and skills
-- 🎓 I’m currently following a master's degree course on AI
 
 <!---
 Sabaudian/Sabaudian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
