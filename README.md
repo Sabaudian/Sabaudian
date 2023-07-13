@@ -3,7 +3,8 @@
 - 🤖 I'm studing Artificial Intelligence at University of Milan
 - 📚 I’m interested in improving my knowledge and skills
 
-    [![My Skills](https://skillicons.dev/icons?i=py,matlab)](https://skillicons.dev)
+
+    [![My Skills](https://skillicons.dev/icons?i=py,matlab)]()
 
 <!---
 Sabaudian/Sabaudian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
