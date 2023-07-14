@@ -4,7 +4,7 @@
 - 📚 I’m interested in improving my knowledge and skills
 
 
-    [![My Skills](https://skillicons.dev/icons?i=py,matlab)]()
+    [![My Skills](https://skillicons.dev/icons?i=py,matlab,c,java)]()
 
 <!---
 Sabaudian/Sabaudian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
