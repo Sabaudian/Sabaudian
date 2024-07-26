@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matteo Farè 
 - 👨‍🎓 I’m currently following a Master's degree course in Computer Science
-- 🤖 I'm studing Artificial Intelligence at University of Milan
+- 🤖 I'm studing at University of Milan (uniMI) focusing on AI topics
 - 📚 I’m interested in improving my knowledge and skills
 
 <!---
